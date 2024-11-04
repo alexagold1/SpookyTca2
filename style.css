@@ -33,7 +33,7 @@ body{
      bottom: -0.4em;
      left: 4em;
      border-radius: 70%/130%;
-     border-bottom: 0.5em solid purple;
+     border-bottom: 0.5em solid green;
      border-top: 0.5em solid green;
 }
 .pumpkin .texture::after{
